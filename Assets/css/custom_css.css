@@ -1,0 +1,118 @@
+footer .column1 {
+    position: relative;
+    top: -18px;
+}
+
+.shopping_cart_outer {
+    display: none;
+}
+
+.woocommerce-page .shopping_cart_outer {
+    display: table;
+}
+
+.cover_boxes ul li .box .box_content {
+    top: 0;
+}
+
+.cover_boxes ul li .box .qbutton {
+    margin-top: 18px;
+}
+
+.ls-wp-container .qbutton {
+    -webkit-transition: none;
+    -ms-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+
+.page-id-15173 .ls-nav-prev,
+.page-id-15058 .ls-nav-prev,
+.page-id-15173 .ls-nav-next,
+.page-id-15058 .ls-nav-next {
+    margin-top: 19px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .page-id-15173 .ls-nav-prev,
+    .page-id-15058 .ls-nav-prev,
+    .page-id-15173 .ls-nav-next,
+    .page-id-15058 .ls-nav-next {
+        margin-top: -27px;
+    }
+    .page-id-15173 .q_slider,
+    .page-id-15058 .q_slider {
+        min-height: 100px;
+    }
+}
+
+.side_menu_button a:last-child {
+    padding: 0 0 0 17px;
+}
+
+.page-id-15173 .q_slider,
+.page-id-15058 .q_slider {
+    min-height: 560px;
+}
+
+.filter_outer {
+    margin: -8px 0 31px;
+}
+
+.filter_holder ul li span {
+    font-size: 13px;
+}
+
+h4 {
+    font-family: Georgia, serif;
+}
+
+.title .subtitle {
+    margin-top: 14px;
+}
+
+.contact_section .separator {
+    display: none;
+}
+
+.contact_detail h2 {
+    margin-bottom: 15px;
+}
+
+#nav-menu-item-15674 li,
+#nav-menu-item-15918 li,
+#nav-menu-item-15919 li,
+#nav-menu-item-15920 li {
+    width: 280px;
+}
+
+.drop_down .second .inner .widget {
+    padding-bottom: 13px;
+}
+
+.drop_down .second .inner .widget a {
+    padding: 0px !important;
+}
+
+
+/* 
+.mobile_menu>ul {
+    display: none !important;
+    height: 0 !important;
+    visibility: hidden !important;
+}
+
+.mobile_menu.active>ul {
+    display: block !important;
+    height: auto !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+.mobile_menu>ul>li.open_sub>ul {
+    display: block !important;
+    height: auto !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+} */
